@@ -2,9 +2,13 @@
 
 > 1. Front Suspension - 
 > > Tools and Parts List
-> > How to pictures & videos
-> > Description
-> 2. Bodywork
+> > "How to" pictures & videos
+> > Description of front end repair
+
+> 2. Bodywork 
 > > Front fender shield
-> > 
+> > Liners
+> > Under carriage
+
 Repairs - steps on how to remove &amp; replace (ie, repair) different components.
+
