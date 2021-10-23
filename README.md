@@ -2,8 +2,8 @@
 
 > 1. Front Suspension - 
 > > Tools and Parts List
-> > "How to" pictures & videos
-> > Description of front end repair
+> "How to" pictures & videos
+> Description of front end repair
 
 > 2. Bodywork 
 > > Front fender shield
